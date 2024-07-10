@@ -1,0 +1,1 @@
+This project leverages PyTorch to develop a neural network that predicts whether an individual has anemia. By training the model on relevant medical data, it achieved an 80% validation accuracy, demonstrating its effectiveness in identifying anemia. 
